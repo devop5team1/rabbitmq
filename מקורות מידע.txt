@@ -1,1 +1,8 @@
+﻿מדריך על rabbitmq
 https://www.rabbitmq.com/tutorials/tutorial-one-python.html
+
+מה זה message queue
+https://www.youtube.com/watch?v=5-Rq4-PZlew
+
+rabbitmq בחמש דקות
+https://www.youtube.com/watch?v=deG25y_r6OY
